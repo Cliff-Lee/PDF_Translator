@@ -1,0 +1,6 @@
+PyPDF2
+argostranslate
+reportlab
+pdf2image
+pillow
+pytesseract
